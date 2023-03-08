@@ -1,0 +1,28 @@
+
+/* Utility */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    color: #000;
+    line-height: 1.7;
+}
+
+
+/* Navbar */
+
+.navbar-toggler {
+    color: #fff;
+}
+
+.search-input {
+    width: 300px;
+}
+
+
+
+
